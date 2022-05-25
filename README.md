@@ -1,5 +1,4 @@
 ### Hi there 👋 <br>
-https://www.codewars.com/users/devFariz/badges/large <br>
 - 🔭 I’m currently working on project where I use technoligies like React/Redux <br>
 - 🌱 I’m currently learning React/Redux
 
