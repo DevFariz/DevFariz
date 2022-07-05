@@ -1,6 +1,5 @@
 ### Hi there 👋 <br>
 - 🔭 I’m currently working on project where I use technoligies like React/Redux <br>
-- 🌱 I’m currently learning React/Redux
 
 <!--
 **DevFariz/DevFariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
