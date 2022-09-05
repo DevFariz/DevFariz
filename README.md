@@ -1,5 +1,6 @@
 ### Hi there 👋 <br>
-- 🔭 I’m currently working on project where I use technoligies like React/Redux <br>
+
+![codewars score](https://www.codewars.com/users/devFariz/badges/large)
 
 <!--
 **DevFariz/DevFariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
