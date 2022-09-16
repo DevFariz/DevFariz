@@ -107,5 +107,5 @@ Here are some ideas to get you started:
 -->
 
 
-Codewars Profile: <br><br>
+## Codewars Profile: 
 ![codewars score](https://www.codewars.com/users/devFariz/badges/large)
