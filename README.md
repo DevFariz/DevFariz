@@ -89,7 +89,18 @@
     />
   </a>
   
+  <a href="https://docs.github.com/en/rest" rel="nofollow">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoIRsclfdgRLQ6s7V07XDrxKORDNZtvoWOFG-b0Cw&s"
+      alt="REST"
+      width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+  </a>
 </p>
+
+
 
 <!--
 **DevFariz/DevFariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
