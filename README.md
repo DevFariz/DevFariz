@@ -2,7 +2,13 @@
 
                                                A Front end(React) developer from Baku
                                                
-- 🔭 I’m currently looking for a job
+- 🌱 I’m currently looking for a job
+- 🔭 I’m currently working on e-commerce app
+
+- 📫 How to reach me: <br>
+Gmail: farizramazanoff@gmail.com <br>
+Linkedin: https://www.linkedin.com/in/fariz-ramazanov-512727236/
+
 
 ## 🧰 Languages and Tools:
 
@@ -107,7 +113,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
