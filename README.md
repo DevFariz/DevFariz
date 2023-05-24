@@ -3,7 +3,7 @@
                                                A Front end(React) developer from Baku
                                                
 - 🌱 I’m currently looking for a job
-- 🔭 I’m currently information security technologies
+- 🔭 I’m currently focused on new technologies
 
 - 📫 How to reach me: <br>
 Gmail: farizramazanoff@gmail.com <br>
