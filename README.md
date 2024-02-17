@@ -7,7 +7,6 @@
 
 - 📫 How to reach me: <br>
 Gmail: farizramazanoff@gmail.com <br>
-Linkedin: https://www.linkedin.com/in/fariz-ramazanov-512727236/
 
 
 ## 🧰 Languages and Tools:
