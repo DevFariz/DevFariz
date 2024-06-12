@@ -2,7 +2,7 @@
 
                                                A Front end(React) developer from Baku
                                                
-- 🌱 I’m currently looking for a job
+- 🌱 I’m currently looking for a job as a Software Developer
 - 🔭 I’m currently focused on learning Java
 
 - 📫 How to reach me: <br>
